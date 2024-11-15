@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Accordion/static/css/main.e6c13ad2.css",
+    "main.js": "/Accordion/static/js/main.1e534b11.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Accordion/static/js/453.ad6eb26e.chunk.js",
+    "static/media/bullet_q.svg": "/Accordion/static/media/bullet_q.e3fe8ae20fd633baecd37005a9321e88.svg",
+    "index.html": "/Accordion/index.html",
+    "static/media/bullet_a.svg": "/Accordion/static/media/bullet_a.ee5d634d2cc85696bb2331a637f74c3a.svg",
+    "main.e6c13ad2.css.map": "/Accordion/static/css/main.e6c13ad2.css.map",
+    "main.1e534b11.js.map": "/Accordion/static/js/main.1e534b11.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Accordion/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1e534b11.js"
+  ]
+}
